@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9cbd35d38bf763f47bcc734e246259f1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - timeSlider: {instanceID: 0}
+  - prevButton: {instanceID: 0}
+  - nextButton: {instanceID: 0}
+  - buttonBox: {instanceID: 0}
+  - simRunPrefab: {fileID: 7073195653049671055, guid: 0a2417f54a786cb47be12615aef68a17, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
